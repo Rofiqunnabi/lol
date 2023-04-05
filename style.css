@@ -1,0 +1,32 @@
+*{
+    margin:0 ;
+    padding: 0;
+
+}
+.main{
+    background: linear-gradient( to top,rgb(0,0,0,0.5)50%,rgb(0,0,0,0.5)50%),url(hat\ -group-80.jpg);
+    background-position: center;
+    background-size: cover;
+    min-height: 109vh;
+
+}
+.navar{
+    width:1200px;
+    height: 75px;
+    margin: auto;
+}
+.icon{
+    width: 200px;
+    float: left;
+    height: 75ppx;
+    
+  
+}
+.logo{
+    color: orange;
+    font-size: 35px;
+    font-family: Arial;
+    padding-left: 30px;
+    float: left;
+    padding-bottom: 10px;
+}
